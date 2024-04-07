@@ -36,10 +36,7 @@ Electric production prediction plays a crucial role in optimizing energy managem
    ```
    git clone https://github.com/yourusername/electric-production-prediction.git
    ```
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+2. Start Working on the Notebook
 
 ## Usage
 1. Prepare your electric production dataset in CSV format.
