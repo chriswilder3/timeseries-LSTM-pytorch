@@ -34,7 +34,7 @@ Electric production prediction plays a crucial role in optimizing energy managem
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/electric-production-prediction.git
+   git clone https://github.com/chriswilder3/timeseries-LSTM-pytorch.git
    ```
 2. Start Working on the Notebook
 
